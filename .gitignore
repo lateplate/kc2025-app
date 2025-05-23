@@ -24,5 +24,6 @@ out/
 
 ### App ###
 src/main/frontend/*
+!/frontend/themes/
 node_modules/*
 vite.generated.ts
