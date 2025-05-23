@@ -1,0 +1,8 @@
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.link-text {
+  color: var(--lumo-primary-text-color);
+  cursor: pointer;
+}
